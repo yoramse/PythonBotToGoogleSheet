@@ -30,5 +30,7 @@ request = sheet.values().update(spreadsheetId=SAMPLE_SPREADSHEET_ID,
 
 
 
+print(request)
+
 print(values)
 
